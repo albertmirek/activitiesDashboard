@@ -1,12 +1,12 @@
 <?php return array (
   'root' => 
   array (
-    'pretty_version' => 'v3.1.3',
-    'version' => '3.1.3.0',
+    'pretty_version' => 'dev-main',
+    'version' => 'dev-main',
     'aliases' => 
     array (
     ),
-    'reference' => NULL,
+    'reference' => 'a9a85cf219add74c2f22c35ee8eb08286f104a41',
     'name' => 'nette/web-project',
   ),
   'versions' => 
@@ -184,12 +184,30 @@
     ),
     'nette/web-project' => 
     array (
-      'pretty_version' => 'v3.1.3',
-      'version' => '3.1.3.0',
+      'pretty_version' => 'dev-main',
+      'version' => 'dev-main',
       'aliases' => 
       array (
       ),
-      'reference' => NULL,
+      'reference' => 'a9a85cf219add74c2f22c35ee8eb08286f104a41',
+    ),
+    'phpstan/phpstan' => 
+    array (
+      'pretty_version' => '0.12.86',
+      'version' => '0.12.86.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => 'a84fdc53ecca7643dbc89ef8880d8b393a6c155a',
+    ),
+    'phpstan/phpstan-nette' => 
+    array (
+      'pretty_version' => '0.12.18',
+      'version' => '0.12.18.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '9feb3cafff0f1d3bba38f0e8680085089deceb62',
     ),
     'symfony/thanks' => 
     array (

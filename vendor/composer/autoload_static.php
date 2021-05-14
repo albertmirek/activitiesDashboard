@@ -7,6 +7,7 @@ namespace Composer\Autoload;
 class ComposerStaticInit282f65bd5f240d12c712912b97f1835d
 {
     public static $files = array (
+        '9b38cf48e83f5d8f60375221cd213eee' => __DIR__ . '/..' . '/phpstan/phpstan/bootstrap.php',
         'd507e002f7fce7f0c6dbf1f22edcb902' => __DIR__ . '/..' . '/tracy/tracy/src/Tracy/functions.php',
     );
 
@@ -14,6 +15,10 @@ class ComposerStaticInit282f65bd5f240d12c712912b97f1835d
         'S' => 
         array (
             'Symfony\\Thanks\\' => 15,
+        ),
+        'P' => 
+        array (
+            'PHPStan\\' => 8,
         ),
         'A' => 
         array (
@@ -25,6 +30,10 @@ class ComposerStaticInit282f65bd5f240d12c712912b97f1835d
         'Symfony\\Thanks\\' => 
         array (
             0 => __DIR__ . '/..' . '/symfony/thanks/src',
+        ),
+        'PHPStan\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/phpstan/phpstan-nette/src',
         ),
         'App\\' => 
         array (

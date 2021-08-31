@@ -1,9 +1,25 @@
-{* This is the welcome page, you can delete it *}
 
 {block content}
 
 <div id="content">
-	
 	<h1>Hello world</h1>
+
+	<table>
+		<th>
+			<td>name</td>
+			<td>password</td>
+		</th>
+{*		{foreach $users as $user}*}
+{*		<tr>*}
+{*			<td>*}
+{*				<h4>{$user->name}</h4>*}
+{*				<h4>{$user->password}</h4>*}
+{*			</td>*}
+{*		</tr>*}
+{*		{/foreach}*}
+		<h1>{$users->name}</h1>
+
+	</table>
 </div>
 
+{/block content}

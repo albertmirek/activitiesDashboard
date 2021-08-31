@@ -32,7 +32,7 @@ private static $installed = array (
     'aliases' => 
     array (
     ),
-    'reference' => 'a9a85cf219add74c2f22c35ee8eb08286f104a41',
+    'reference' => 'a78ad7743168a3dc7e15fac547ddad257195eb63',
     'name' => 'nette/web-project',
   ),
   'versions' => 
@@ -84,12 +84,12 @@ private static $installed = array (
     ),
     'nette/database' => 
     array (
-      'pretty_version' => 'v3.1.1',
-      'version' => '3.1.1.0',
+      'pretty_version' => 'v3.1.2',
+      'version' => '3.1.2.0',
       'aliases' => 
       array (
       ),
-      'reference' => '17bc9b2b5a5cd57ab089bc1a5982bc6c3b3790e3',
+      'reference' => '8caf46857ea50784734e0d53e4accf3833d236ff',
     ),
     'nette/di' => 
     array (
@@ -215,16 +215,16 @@ private static $installed = array (
       'aliases' => 
       array (
       ),
-      'reference' => 'a9a85cf219add74c2f22c35ee8eb08286f104a41',
+      'reference' => 'a78ad7743168a3dc7e15fac547ddad257195eb63',
     ),
     'phpstan/phpstan' => 
     array (
-      'pretty_version' => '0.12.86',
-      'version' => '0.12.86.0',
+      'pretty_version' => '0.12.87',
+      'version' => '0.12.87.0',
       'aliases' => 
       array (
       ),
-      'reference' => 'a84fdc53ecca7643dbc89ef8880d8b393a6c155a',
+      'reference' => 'd464e00776afb711f419faffa96826dc02e4d145',
     ),
     'phpstan/phpstan-nette' => 
     array (
@@ -246,12 +246,12 @@ private static $installed = array (
     ),
     'tracy/tracy' => 
     array (
-      'pretty_version' => 'v2.8.3',
-      'version' => '2.8.3.0',
+      'pretty_version' => 'v2.8.4',
+      'version' => '2.8.4.0',
       'aliases' => 
       array (
       ),
-      'reference' => '342674bbf72365e8456de9855a8cd839ca695933',
+      'reference' => 'cb7d3dcd9469aa2aa6722edf6bee2d5d75188079',
     ),
   ),
 );
